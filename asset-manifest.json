@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fundfix/static/css/main.4b4a31e5.css",
+    "main.js": "/fundfix/static/js/main.c3ca5348.js",
+    "static/js/453.db251eea.chunk.js": "/fundfix/static/js/453.db251eea.chunk.js",
+    "static/media/background.png": "/fundfix/static/media/background.d37d2bcbf4d0c13246c7.png",
+    "static/media/image_desktop.png": "/fundfix/static/media/image_desktop.bb9b60c9fe8f892b25b1.png",
+    "static/media/src.png": "/fundfix/static/media/src.72ba4682b5c463bbf8b2.png",
+    "static/media/src0.png": "/fundfix/static/media/src0.59cadeca7d8c29fc15fc.png",
+    "static/media/image_mobile.png": "/fundfix/static/media/image_mobile.4a4643882a1f5e50fb4c.png",
+    "static/media/src1.png": "/fundfix/static/media/src1.15676e5519d482f075f2.png",
+    "static/media/src5.png": "/fundfix/static/media/src5.aca2b7cd09b25291f32a.png",
+    "static/media/src6.png": "/fundfix/static/media/src6.ac21085e2f0099f79714.png",
+    "static/media/src2.png": "/fundfix/static/media/src2.f3d6001ee2f7872f7b08.png",
+    "static/media/src4.png": "/fundfix/static/media/src4.b1b0f7da9e6e6d702b28.png",
+    "static/media/0.png": "/fundfix/static/media/0.87c5e970b3d63c9909a7.png",
+    "static/media/src3.png": "/fundfix/static/media/src3.3680da8cf673ee1313ba.png",
+    "index.html": "/fundfix/index.html",
+    "main.4b4a31e5.css.map": "/fundfix/static/css/main.4b4a31e5.css.map",
+    "main.c3ca5348.js.map": "/fundfix/static/js/main.c3ca5348.js.map",
+    "453.db251eea.chunk.js.map": "/fundfix/static/js/453.db251eea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b4a31e5.css",
+    "static/js/main.c3ca5348.js"
+  ]
+}
