@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fundfix/static/css/main.31d4b299.css",
-    "main.js": "/fundfix/static/js/main.7078161c.js",
+    "main.js": "/fundfix/static/js/main.b0b6a650.js",
     "static/js/453.db251eea.chunk.js": "/fundfix/static/js/453.db251eea.chunk.js",
     "static/media/weFund.webm": "/fundfix/static/media/weFund.dfb2b0fdd944cffa5d12.webm",
     "static/media/background.png": "/fundfix/static/media/background.d37d2bcbf4d0c13246c7.png",
@@ -27,11 +27,11 @@
     "static/media/WaveMobile.png": "/fundfix/static/media/WaveMobile.f82d70dbcbba33f725db.png",
     "index.html": "/fundfix/index.html",
     "main.31d4b299.css.map": "/fundfix/static/css/main.31d4b299.css.map",
-    "main.7078161c.js.map": "/fundfix/static/js/main.7078161c.js.map",
+    "main.b0b6a650.js.map": "/fundfix/static/js/main.b0b6a650.js.map",
     "453.db251eea.chunk.js.map": "/fundfix/static/js/453.db251eea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d4b299.css",
-    "static/js/main.7078161c.js"
+    "static/js/main.b0b6a650.js"
   ]
 }
