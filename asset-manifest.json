@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fundfix/static/css/main.58c3a235.css",
-    "main.js": "/fundfix/static/js/main.7843587f.js",
+    "main.css": "/fundfix/static/css/main.cc4ad09d.css",
+    "main.js": "/fundfix/static/js/main.a92cbc4e.js",
     "static/js/453.db251eea.chunk.js": "/fundfix/static/js/453.db251eea.chunk.js",
     "static/media/weFund.webm": "/fundfix/static/media/weFund.dfb2b0fdd944cffa5d12.webm",
     "static/media/background.png": "/fundfix/static/media/background.d37d2bcbf4d0c13246c7.png",
@@ -26,12 +26,12 @@
     "static/media/wave.png": "/fundfix/static/media/wave.d9ef3c2ed25f1ddd9646.png",
     "static/media/WaveMobile.png": "/fundfix/static/media/WaveMobile.f82d70dbcbba33f725db.png",
     "index.html": "/fundfix/index.html",
-    "main.58c3a235.css.map": "/fundfix/static/css/main.58c3a235.css.map",
-    "main.7843587f.js.map": "/fundfix/static/js/main.7843587f.js.map",
+    "main.cc4ad09d.css.map": "/fundfix/static/css/main.cc4ad09d.css.map",
+    "main.a92cbc4e.js.map": "/fundfix/static/js/main.a92cbc4e.js.map",
     "453.db251eea.chunk.js.map": "/fundfix/static/js/453.db251eea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.58c3a235.css",
-    "static/js/main.7843587f.js"
+    "static/css/main.cc4ad09d.css",
+    "static/js/main.a92cbc4e.js"
   ]
 }
