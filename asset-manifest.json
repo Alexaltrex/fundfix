@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fundfix/static/css/main.0fdddbdb.css",
-    "main.js": "/fundfix/static/js/main.bd32d23e.js",
+    "main.css": "/fundfix/static/css/main.10ef2d07.css",
+    "main.js": "/fundfix/static/js/main.0fda43d6.js",
     "static/js/453.db251eea.chunk.js": "/fundfix/static/js/453.db251eea.chunk.js",
     "static/media/weFund.webm": "/fundfix/static/media/weFund.dfb2b0fdd944cffa5d12.webm",
     "static/media/background.png": "/fundfix/static/media/background.d37d2bcbf4d0c13246c7.png",
@@ -17,7 +17,7 @@
     "static/media/weNeverRunOut1.webm": "/fundfix/static/media/weNeverRunOut1.472889e1f30cb24018c0.webm",
     "static/media/madeBytraders2.webm": "/fundfix/static/media/madeBytraders2.2500a939bd95920734f8.webm",
     "static/media/getStarted0.webm": "/fundfix/static/media/getStarted0.89bdd46bd61adf2aa615.webm",
-    "static/media/src.png": "/fundfix/static/media/src.b31f5ba81c05c499db83.png",
+    "static/media/src.png": "/fundfix/static/media/src.f24bbdfd9cb21d3539de.png",
     "static/media/20.png": "/fundfix/static/media/20.0397710f356135000f1f.png",
     "static/media/1.png": "/fundfix/static/media/1.e28f5b1154c6238d728a.png",
     "static/media/21.png": "/fundfix/static/media/21.216ffee166fa2e3590a0.png",
@@ -26,12 +26,12 @@
     "static/media/wave.png": "/fundfix/static/media/wave.d9ef3c2ed25f1ddd9646.png",
     "static/media/WaveMobile.png": "/fundfix/static/media/WaveMobile.f82d70dbcbba33f725db.png",
     "index.html": "/fundfix/index.html",
-    "main.0fdddbdb.css.map": "/fundfix/static/css/main.0fdddbdb.css.map",
-    "main.bd32d23e.js.map": "/fundfix/static/js/main.bd32d23e.js.map",
+    "main.10ef2d07.css.map": "/fundfix/static/css/main.10ef2d07.css.map",
+    "main.0fda43d6.js.map": "/fundfix/static/js/main.0fda43d6.js.map",
     "453.db251eea.chunk.js.map": "/fundfix/static/js/453.db251eea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fdddbdb.css",
-    "static/js/main.bd32d23e.js"
+    "static/css/main.10ef2d07.css",
+    "static/js/main.0fda43d6.js"
   ]
 }
